@@ -116,6 +116,88 @@ Terraform / Ansible]
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+Programming Languages
+Python
+
+JavaScript / TypeScript
+
+Java
+
+C# / .NET
+
+Go
+
+Rust
+
+PHP
+
+C / C++
+
+🖥 Frontend Technologies
+HTML / CSS / Sass
+
+React.js / Next.js
+
+Vue.js / Nuxt.js
+
+Angular
+
+Tailwind CSS
+
+Bootstrap
+
+🔙 Backend Technologies
+Node.js / Express.js
+
+Django / Flask
+
+Spring Boot
+
+ASP.NET Core
+
+FastAPI
+
+Laravel
+
+🗄 Databases
+PostgreSQL / MySQL
+
+MongoDB
+
+Redis
+
+Firebase
+
+SQLite
+
+⚙️ DevOps / Tools
+Git / GitHub / GitLab
+
+Docker / Docker Compose
+
+Kubernetes
+
+Jenkins / GitHub Actions
+
+Terraform / Ansible
+
+☁️ Cloud Platforms
+AWS (EC2, S3, Lambda)
+
+Azure
+
+Google Cloud Platform (GCP)
+
+Vercel / Netlify
+
+Firebase
+
+🧪 Testing
+Jest / Mocha / Chai
+
+PyTest / Unittest
+
+Selenium / Playwright / Cypress
 
 *(Add or remove as needed)*
 
